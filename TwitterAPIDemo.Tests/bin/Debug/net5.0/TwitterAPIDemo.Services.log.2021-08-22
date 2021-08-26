@@ -1,0 +1,35 @@
+2021-08-22 20:15:18,766  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-22 20:15:18,875  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-22 20:15:18,877  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-22 20:15:48,160  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-22 20:15:48,245  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-22 20:15:48,247  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-22 20:16:16,360  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-22 20:16:39,403  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-22 20:16:39,406  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-22 20:26:50,768  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-22 20:27:07,496  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-22 20:27:07,534  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-22 20:38:49,048  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-22 20:39:02,649  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-22 20:39:02,652  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-22 21:01:46,860  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-22 21:01:52,834  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://localhost:44390/Statistics
+ 2021-08-22 21:01:52,856  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-22 21:01:52,866  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-22 21:01:52,867  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://localhost:44390/Statistics
+ 2021-08-22 21:02:16,841  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-22 21:02:23,961  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://localhost:44390/Statistics
+ 2021-08-22 21:02:23,970  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-22 21:02:23,972  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://localhost:44390/Statistics
+ 2021-08-22 21:02:23,972  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-22 21:02:24,138  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 166.2982ms - 404
+ 2021-08-22 21:02:24,143  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 195.5921ms - 404
+ 2021-08-22 21:03:04,044  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-22 21:03:11,109  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://localhost:44390/api/Tweets/Statistics
+ 2021-08-22 21:03:11,125  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-22 21:03:11,132  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-22 21:03:11,132  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://localhost:44390/api/Tweets/Statistics
+ 2021-08-22 21:03:11,747  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 613.8167ms - 200
+ 2021-08-22 21:03:11,751  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 655.5079ms - 200
+ 

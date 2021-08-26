@@ -1,0 +1,11 @@
+C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Core\bin\Debug\net5.0\TwitterAPIDemo.Core.deps.json
+C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Core\bin\Debug\net5.0\TwitterAPIDemo.Core.dll
+C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Core\bin\Debug\net5.0\ref\TwitterAPIDemo.Core.dll
+C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Core\bin\Debug\net5.0\TwitterAPIDemo.Core.pdb
+C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Core\obj\Debug\net5.0\TwitterAPIDemo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Core\obj\Debug\net5.0\TwitterAPIDemo.Core.AssemblyInfoInputs.cache
+C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Core\obj\Debug\net5.0\TwitterAPIDemo.Core.AssemblyInfo.cs
+C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Core\obj\Debug\net5.0\TwitterAPIDemo.Core.csproj.CoreCompileInputs.cache
+C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Core\obj\Debug\net5.0\TwitterAPIDemo.Core.dll
+C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Core\obj\Debug\net5.0\ref\TwitterAPIDemo.Core.dll
+C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Core\obj\Debug\net5.0\TwitterAPIDemo.Core.pdb

@@ -1,0 +1,285 @@
+2021-08-26 11:33:00,258  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://api.twitter.com/2/tweets/sample/stream?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:33:00,783  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 523.8739ms - 200
+ 2021-08-26 11:33:00,784  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 527.1669ms - 200
+ 2021-08-26 11:33:00,786  INFO TwitterAPIDemo.API.Services.TwitterService.MoveNext [48] - MESSAGE: Processing tweets...
+ 2021-08-26 11:33:04,634  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:33:04,635  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:33:04,635  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:33:04,636  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://api.twitter.com/2/tweets/1275828087666679809?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:33:04,637  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://api.twitter.com/2/tweets/1275828087666679809?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:33:04,838  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 201.0056ms - 200
+ 2021-08-26 11:33:04,839  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 202.977ms - 200
+ 2021-08-26 11:33:04,856  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:33:04,857  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:33:04,857  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:33:04,858  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:33:04,858  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:33:08,977  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:33:08,978  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:33:08,979  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:33:08,979  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:33:08,980  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:33:13,074  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:33:13,075  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:33:13,076  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:33:13,077  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:33:13,079  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:33:37,806  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:33:37,838  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:33:37,838  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:33:37,844  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:33:37,847  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:33:41,981  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:33:41,982  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:33:41,982  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:33:41,983  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:33:41,984  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:33:46,093  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:33:46,095  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:33:46,095  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:33:46,333  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:33:46,334  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:33:46,334  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:33:46,338  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://api.twitter.com/2/tweets/sample/stream?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:33:46,339  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://api.twitter.com/2/tweets/sample/stream?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:33:47,028  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 687.9235ms - 200
+ 2021-08-26 11:33:47,029  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 691.1816ms - 200
+ 2021-08-26 11:33:47,030  INFO TwitterAPIDemo.API.Services.TwitterService.MoveNext [48] - MESSAGE: Processing tweets...
+ 2021-08-26 11:33:50,637  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:33:50,638  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:33:50,638  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:33:50,640  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://api.twitter.com/2/tweets/1275828087666679809?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:33:50,641  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://api.twitter.com/2/tweets/1275828087666679809?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:33:50,840  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 199.3288ms - 200
+ 2021-08-26 11:33:50,843  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 203.575ms - 200
+ 2021-08-26 11:33:50,863  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:33:50,863  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:33:50,864  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:33:50,864  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:33:50,865  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:33:54,961  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:33:54,961  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:33:54,962  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:33:54,962  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:33:54,963  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:33:59,038  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:33:59,039  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:33:59,040  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:33:59,041  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:33:59,041  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:34:32,830  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:34:32,900  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:34:32,903  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:34:32,909  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:34:32,913  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:35:14,690  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:35:14,722  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:35:14,722  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:35:14,724  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:35:14,727  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:36:19,632  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:36:19,659  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:36:19,659  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:36:19,665  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:36:19,668  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:36:23,794  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:36:23,794  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:36:23,795  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:36:23,797  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:36:23,798  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:36:27,894  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:36:27,894  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:36:27,895  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:36:28,097  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:36:28,097  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:36:28,098  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:36:28,102  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://api.twitter.com/2/tweets/sample/stream?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:36:28,102  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://api.twitter.com/2/tweets/sample/stream?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:36:28,587  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 483.3142ms - 200
+ 2021-08-26 11:36:28,588  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 486.5484ms - 200
+ 2021-08-26 11:36:28,589  INFO TwitterAPIDemo.API.Services.TwitterService.MoveNext [48] - MESSAGE: Processing tweets...
+ 2021-08-26 11:36:32,630  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:36:32,631  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:36:32,631  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:36:32,635  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://api.twitter.com/2/tweets/1275828087666679809?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:36:32,635  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://api.twitter.com/2/tweets/1275828087666679809?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:36:32,828  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 193.0543ms - 200
+ 2021-08-26 11:36:32,829  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 194.4809ms - 200
+ 2021-08-26 11:36:32,838  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:36:32,838  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:36:32,839  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:36:32,839  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:36:32,839  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:36:36,928  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:36:36,929  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:36:36,929  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:36:36,930  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:36:36,930  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:36:40,991  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:36:40,992  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:36:40,992  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:36:40,993  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:36:40,993  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:38:26,579  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:38:26,611  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:38:26,611  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:38:26,618  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:38:26,618  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:38:27,463  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 843.511ms - 201
+ 2021-08-26 11:38:27,465  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 860.917ms - 201
+ 2021-08-26 11:38:27,483  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:38:27,483  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:38:27,484  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:38:27,485  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:38:27,486  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:38:27,507  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 21.0908ms - 201
+ 2021-08-26 11:38:27,507  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 22.3073ms - 201
+ 2021-08-26 11:38:27,509  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request DELETE https://localhost:44346/api/Tweets/2
+ 2021-08-26 11:38:27,509  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request DELETE https://localhost:44346/api/Tweets/2
+ 2021-08-26 11:38:27,662  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 152.8853ms - 204
+ 2021-08-26 11:38:27,663  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 154.1993ms - 204
+ 2021-08-26 11:38:27,664  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://localhost:44346/api/Tweets/2
+ 2021-08-26 11:38:27,665  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://localhost:44346/api/Tweets/2
+ 2021-08-26 11:38:27,672  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 6.8307ms - 204
+ 2021-08-26 11:38:27,672  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 8.2293ms - 204
+ 2021-08-26 11:38:27,678  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:38:27,679  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:38:27,679  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:38:27,940  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:38:27,940  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:38:27,941  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:38:27,944  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://api.twitter.com/2/tweets/sample/stream?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:38:27,945  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://api.twitter.com/2/tweets/sample/stream?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:38:28,326  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 381.2634ms - 200
+ 2021-08-26 11:38:28,327  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 382.5915ms - 200
+ 2021-08-26 11:38:28,327  INFO TwitterAPIDemo.API.Services.TwitterService.MoveNext [48] - MESSAGE: Processing tweets...
+ 2021-08-26 11:38:31,704  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:38:31,705  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:38:31,706  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:38:31,707  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://api.twitter.com/2/tweets/1275828087666679809?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:38:31,708  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://api.twitter.com/2/tweets/1275828087666679809?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:38:31,900  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 192.2056ms - 200
+ 2021-08-26 11:38:31,910  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 202.2854ms - 200
+ 2021-08-26 11:38:31,919  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:38:31,920  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:38:31,921  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:38:31,921  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:38:31,922  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:38:31,927  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 5.304ms - 201
+ 2021-08-26 11:38:31,928  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 6.4983ms - 201
+ 2021-08-26 11:38:31,929  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://localhost:44346/api/Tweets/3
+ 2021-08-26 11:38:31,929  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://localhost:44346/api/Tweets/3
+ 2021-08-26 11:38:31,932  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 2.505ms - 200
+ 2021-08-26 11:38:31,932  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 3.5942ms - 200
+ 2021-08-26 11:38:31,938  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:38:31,939  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:38:31,939  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:38:31,940  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:38:31,940  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:38:31,944  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 3.6195ms - 201
+ 2021-08-26 11:38:31,944  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 4.6143ms - 201
+ 2021-08-26 11:38:31,945  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:38:31,945  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:38:31,947  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 1.746ms - 201
+ 2021-08-26 11:38:31,948  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 2.6048ms - 201
+ 2021-08-26 11:38:31,949  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://localhost:44346/api/Tweets
+ 2021-08-26 11:38:31,949  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://localhost:44346/api/Tweets
+ 2021-08-26 11:38:31,988  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 38.9781ms - 200
+ 2021-08-26 11:38:31,989  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 40.0545ms - 200
+ 2021-08-26 11:38:31,995  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:38:31,995  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:38:31,996  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:38:31,996  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:38:31,997  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:38:32,000  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 3.2202ms - 201
+ 2021-08-26 11:38:32,001  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 4.2114ms - 201
+ 2021-08-26 11:38:32,002  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request PUT https://localhost:44346/api/Tweets/6
+ 2021-08-26 11:38:32,002  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request PUT https://localhost:44346/api/Tweets/6
+ 2021-08-26 11:38:32,010  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 7.2923ms - 200
+ 2021-08-26 11:38:32,010  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 8.5085ms - 200
+ 2021-08-26 11:38:32,011  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://localhost:44346/api/Tweets/6
+ 2021-08-26 11:38:32,012  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://localhost:44346/api/Tweets/6
+ 2021-08-26 11:38:32,014  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 2.4439ms - 200
+ 2021-08-26 11:38:32,015  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 3.519ms - 200
+ 2021-08-26 11:39:48,721  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:39:48,750  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:39:48,751  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:39:48,755  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:39:48,758  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:39:49,700  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 940.4804ms - 201
+ 2021-08-26 11:39:49,702  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 953.7735ms - 201
+ 2021-08-26 11:39:49,720  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:39:49,721  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:39:49,721  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:39:49,724  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:39:49,724  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:39:49,751  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 26.4335ms - 201
+ 2021-08-26 11:39:49,752  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 27.7719ms - 201
+ 2021-08-26 11:39:49,753  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request DELETE https://localhost:44346/api/Tweets/2
+ 2021-08-26 11:39:49,754  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request DELETE https://localhost:44346/api/Tweets/2
+ 2021-08-26 11:39:49,934  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 180.2939ms - 204
+ 2021-08-26 11:39:49,934  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 181.7039ms - 204
+ 2021-08-26 11:39:49,936  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://localhost:44346/api/Tweets/2
+ 2021-08-26 11:39:49,936  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://localhost:44346/api/Tweets/2
+ 2021-08-26 11:39:49,943  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 6.891ms - 204
+ 2021-08-26 11:39:49,944  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 8.1862ms - 204
+ 2021-08-26 11:39:49,950  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:39:49,951  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:39:49,951  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:39:50,201  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:39:50,201  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:39:50,202  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:39:50,205  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://api.twitter.com/2/tweets/sample/stream?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:39:50,206  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://api.twitter.com/2/tweets/sample/stream?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:39:50,602  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 396.3026ms - 200
+ 2021-08-26 11:39:50,603  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 397.6755ms - 200
+ 2021-08-26 11:39:50,603  INFO TwitterAPIDemo.API.Services.TwitterService.MoveNext [48] - MESSAGE: Processing tweets...
+ 2021-08-26 11:39:54,494  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:39:54,495  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:39:54,495  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:39:54,496  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://api.twitter.com/2/tweets/1275828087666679809?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:39:54,497  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://api.twitter.com/2/tweets/1275828087666679809?tweet.fields=attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+ 2021-08-26 11:39:54,703  INFO System.Net.Http.HttpClient.ITwitterService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 205.8317ms - 200
+ 2021-08-26 11:39:54,706  INFO System.Net.Http.HttpClient.ITwitterService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 209.7257ms - 200
+ 2021-08-26 11:39:54,711  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:39:54,711  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:39:54,712  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:39:54,712  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:39:54,712  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:39:54,717  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 4.6015ms - 201
+ 2021-08-26 11:39:54,718  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 5.6005ms - 201
+ 2021-08-26 11:39:54,718  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://localhost:44346/api/Tweets/3
+ 2021-08-26 11:39:54,718  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://localhost:44346/api/Tweets/3
+ 2021-08-26 11:39:54,721  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 2.8536ms - 200
+ 2021-08-26 11:39:54,722  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 3.8008ms - 200
+ 2021-08-26 11:39:54,728  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:39:54,728  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:39:54,729  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:39:54,729  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:39:54,730  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:39:54,734  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 3.8375ms - 201
+ 2021-08-26 11:39:54,734  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 4.7976ms - 201
+ 2021-08-26 11:39:54,735  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:39:54,735  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:39:54,737  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 1.9306ms - 201
+ 2021-08-26 11:39:54,737  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 2.6148ms - 201
+ 2021-08-26 11:39:54,738  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://localhost:44346/api/Tweets
+ 2021-08-26 11:39:54,739  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://localhost:44346/api/Tweets
+ 2021-08-26 11:39:54,779  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 40.7523ms - 200
+ 2021-08-26 11:39:54,780  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 41.5491ms - 200
+ 2021-08-26 11:39:54,785  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-08-26 11:39:54,786  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Production
+ 2021-08-26 11:39:54,786  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\sandbox\TwitterAPIDemo\TwitterAPIDemo.Tests\bin\Debug\net5.0
+ 2021-08-26 11:39:54,787  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:39:54,787  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request POST https://localhost:44346/api/Tweets
+ 2021-08-26 11:39:54,791  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 3.8413ms - 201
+ 2021-08-26 11:39:54,792  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 4.964ms - 201
+ 2021-08-26 11:39:54,793  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request PUT https://localhost:44346/api/Tweets/6
+ 2021-08-26 11:39:54,794  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request PUT https://localhost:44346/api/Tweets/6
+ 2021-08-26 11:39:54,803  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 9.1063ms - 200
+ 2021-08-26 11:39:54,803  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 10.3943ms - 200
+ 2021-08-26 11:39:54,804  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: Start processing HTTP request GET https://localhost:44346/api/Tweets/6
+ 2021-08-26 11:39:54,805  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Sending HTTP request GET https://localhost:44346/api/Tweets/6
+ 2021-08-26 11:39:54,808  INFO System.Net.Http.HttpClient.ITweetsService.ClientHandler.? [?] - MESSAGE: Received HTTP response headers after 2.8446ms - 200
+ 2021-08-26 11:39:54,808  INFO System.Net.Http.HttpClient.ITweetsService.LogicalHandler.? [?] - MESSAGE: End processing HTTP request after 3.9356ms - 200
+ 

@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\sandbox\\TwitterAPIDemo\\TwitterAPIDemo.Core\\TwitterAPIDemo.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\sandbox\\TwitterAPIDemo\\TwitterAPIDemo.Core\\TwitterAPIDemo.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sandbox\\TwitterAPIDemo\\TwitterAPIDemo.Core\\TwitterAPIDemo.Core.csproj",
+        "projectName": "TwitterAPIDemo.Core",
+        "projectPath": "C:\\sandbox\\TwitterAPIDemo\\TwitterAPIDemo.Core\\TwitterAPIDemo.Core.csproj",
+        "packagesPath": "C:\\Users\\HIA HA\\.nuget\\packages\\",
+        "outputPath": "C:\\sandbox\\TwitterAPIDemo\\TwitterAPIDemo.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HIA HA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "microsoft.entityframeworkcore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "microsoft.entityframeworkcore.inmemory": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "microsoft.extensions.logging.configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "microsoft.extensions.logging.log4net.aspnetcore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "system.linq.async": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
